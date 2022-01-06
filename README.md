@@ -1,8 +1,4 @@
-<p align="center">
-  <br>
-  <img width="128" height="128" src="extras/aioli.png">
-  <br><b>Aioli Base Flavor</b>
-</p>
+# flavor-base: Aioli Base Flavor
 
 Provides a Base Flavor that currently makes use of [Starlette](https://www.starlette.io) for connection 
 handling and [Marshmallow](https://marshmallow.readthedocs.io/en/stable) for data serialization, but offers no 
